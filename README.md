@@ -1,2 +1,2 @@
 # CraneGameAI
-Latest one. Reward function is super simplified to just move toward the ball to diagnose the agent since it runs so fast and therefore it shouldn't be due to the reward. 
+V4 has a more indepth reward function that can be tried out when the agent works better.
