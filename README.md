@@ -1,2 +1,2 @@
 # CraneGameAI
-Wouldn't converge
+Very promising agent design
